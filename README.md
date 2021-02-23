@@ -1,5 +1,5 @@
-# Queue
-### Implementation of the queue
+# Static Queue
+### Implementation of the static queue
 
 Bellow is menu.
 
